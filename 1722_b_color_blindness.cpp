@@ -1,5 +1,11 @@
 // Problem : https://codeforces.com/contest/1722/problem/B
 
+/* 
+Time Complexity: O(n)
+Space Complexity : O(2n) -> O(n)
+
+ */
+
 #include <bits/stdc++.h>
 using namespace std;
 
